@@ -8,7 +8,7 @@ This is the working code (debugged for Python 3) for the video "Make a Neural Ne
 
 ##Overview
 
-There were a few bugs, mainly syntax issues, with the original code that stopped it from working in Python 3. This code fixes those problems. 
+There were a few bugs, mainly syntax issues, with the original code that stopped it from working with Python 3. This code fixes those problems. 
 
 ##Dependencies
 
