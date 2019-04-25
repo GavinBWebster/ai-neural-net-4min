@@ -16,8 +16,7 @@ Just Numpy, import numpy as np
 
 ##Usage
 
-Run python neural_net_4min.py in terminal to see it train, then predict.
-You can rename the python file to the original demo.py for consistency and Run python demo.py
+Run python demo.py in terminal to see it train, then predict.
 
 ##Credits
 
